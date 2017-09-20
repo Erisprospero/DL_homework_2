@@ -1,0 +1,3 @@
+\b *((o).*?@.*?\.com)\b
+1
+outlook.team@enron.com
